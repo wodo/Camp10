@@ -18,6 +18,8 @@ mountaineering and operates this in the european Alps and worldwide:
 
 In this repository we manage the source for our blog at http://camp10.info
 
+The other documents are usually written in German.
+
 The organizing team:
 
 | Stefan Heiligensetzer
