@@ -16,7 +16,7 @@ mountaineering and operates this in the european Alps and worldwide:
   into demanding mountaineering and gain experience.
 * Difficulties and requirements clearly go beyond the level normally offered on section tours.
 
-In this repository we manage the source for our blog at httptypo://camp10.info
+In this repository we manage the source for our blog at http://camp10.info
 
 The organizing team:
 
