@@ -1,7 +1,7 @@
 Aconcagua 2018
 --------------
 
-:date: 2018-01-09
+:date: 2018-01-10
 :tags: Aconcagua, Argentinien
 :category: Expeditionen
 :slug: Aconcagua
